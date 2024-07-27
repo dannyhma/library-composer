@@ -1,0 +1,19 @@
+{
+    "name": "himaone/library-composer",
+    "description": "Library Composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Himaone\\LibraryComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dannyhma",
+            "email": "dannyhimawan089@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
